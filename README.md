@@ -46,7 +46,7 @@ This project is a web application for an online coffee shop developed using HTML
 
 ## Link
 
-- Live Site URL: [Live Github Page]()
+- Live Site URL: [Live Github Page](https://mustafaolgun.github.io/coffee_landing_page/)
 
 ## Author
 
